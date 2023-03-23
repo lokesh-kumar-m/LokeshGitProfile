@@ -5,7 +5,7 @@
 <h4 align="left">Recent Software Engineering graduate with fundamental knowledge of software design, development, and testing. Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as an entry-level software engineer.</h4>
 <img align="right" src="https://cdn.dribbble.com/userupload/3176670/file/original-08bc2b28594d5ff21f59c6386d6e1abe.png?compress=1&resize=2048x1536" alt="lokeshmekala" width="250" height="203"/> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshmekala&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshmekala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-kumar-m&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshmekala" /> </p>
 
 - 🌱 I’m currently learning **Web Design**
 
@@ -42,8 +42,8 @@
 <br/>
 <br>
 <div>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lokeshmekala&show_icons=true&theme=radical&title_color=ff6599&text_color=93feff&bg_color=000000&hide_border=true&locale=en" alt="lokeshmekala" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshmekala&theme=dark&hide_border=true&bg_color=000000&color=ff6599" alt="lokeshmekala" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lokesh-kumar-m&show_icons=true&theme=radical&title_color=ff6599&text_color=93feff&bg_color=000000&hide_border=true&locale=en" alt="lokeshmekala" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-kumar-m&theme=dark&hide_border=true&bg_color=000000&color=ff6599" alt="lokeshmekala" /></p>
 </div>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshmekala&show_icons=true&theme=dark&title_color=f1f1f1&text_color=fb9d89&hide_border=true&cache_seconds=1808&locale=en&layout=compact&bg_color=000000" alt="lokeshmekala" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh-kumar-m&show_icons=true&theme=dark&title_color=f1f1f1&text_color=fb9d89&hide_border=true&cache_seconds=1808&locale=en&layout=compact&bg_color=000000" alt="lokeshmekala" /></div>
 
