@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-<h1 align="left">Hey 👋, I'm Lokesh Mekala</h1>
+<h1 align="left">Hey 👋,<br/>I'm Lokesh Mekala</h1>
 
-<h4 align="left">Recent Software Engineering graduate with fundamental knowledge of software design, development, and testing. Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as an entry-level software engineer.</h4>
+<h4 align="left">Recent Software Engineering graduate with fundamental knowledge of software design, development, and testing. Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as software developer.</h4>
 <img align="right" src="https://cdn.dribbble.com/userupload/3176670/file/original-08bc2b28594d5ff21f59c6386d6e1abe.png?compress=1&resize=2048x1536" alt="lokeshmekala" width="250" height="203"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-kumar-m&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshmekala" /> </p>
 
-- 🌱 I’m currently learning **Web Design**
+- 🌱 I’m currently learning **Cloud**
 
 - 🚀 I'm currently working on **Personal website**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lokesh-kumar-648a761a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokeshkumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lokesh-mekala-648a761a5?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokeshkumar" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/dot-github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="lokesh" height="30" width="40" /></a>
 <a href="https://dribbble.com/theunfilleddot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="lokesh" height="30" width="40" /></a>
 </p>
